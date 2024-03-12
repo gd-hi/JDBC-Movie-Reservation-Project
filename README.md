@@ -27,9 +27,6 @@ INSERT INTO movie.movie (moviename, movieenglishname, agelimit, time, imgsrc) VA
 ### Customer
 ![image](https://github.com/gd-hi/Movie-Reservation-Project/assets/148930703/db1dc842-fa60-4851-a368-7133d1754fe5)
 
-![image](https://github.com/gd-hi/JDBC-Movie-Reservation-Project/assets/148930703/b5e9ddc1-b331-4114-8051-e6193a9e1110)
-
-
 ### Movie
 ![image](https://github.com/gd-hi/Movie-Reservation-Project/assets/148930703/85faf4de-5d7d-43c7-9fcc-271bfe2321e0)
 
