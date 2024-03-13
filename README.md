@@ -4,7 +4,8 @@
 [시연 영상입니다(3분이내)](https://www.youtube.com/watch?v=p3Ag17ESiH4)
 
 ## 같이 첨부한 jcalendar-1.4와 mysql-connector-j-8.2.0 jar 파일, images 폴더 경로 설정 확인해주세요.
-![image](https://github.com/gd-hi/Movie-Reservation-Project/assets/148930703/c1d04253-0f35-4422-a5c5-37139dbbf45d)
+![image](https://github.com/gd-hi/JDBC-Movie-Reservation-Project/assets/148930703/8ccc4655-f8dd-4190-9382-b728353890bb)
+
 
 
 
@@ -24,37 +25,55 @@ INSERT INTO movie.movie (moviename, movieenglishname, agelimit, time, imgsrc) VA
 INSERT INTO movie.movie (moviename, movieenglishname, agelimit, time, imgsrc) VALUES ('오펜하이머', 'Oppenheimer', '15세 이상 관람가', 180, 'images/Oppenheimer.jpg');
 ```
 
+![image](https://github.com/gd-hi/JDBC-Movie-Reservation-Project/assets/148930703/4dee763f-e9c2-4d35-a8e6-a796c7d1128d)
+
+
 ### Customer
-![image](https://github.com/gd-hi/Movie-Reservation-Project/assets/148930703/db1dc842-fa60-4851-a368-7133d1754fe5)
+![image](https://github.com/gd-hi/JDBC-Movie-Reservation-Project/assets/148930703/c852fcfb-e385-44e4-8bbb-1d7c635923c4)
 
 ### Movie
-![image](https://github.com/gd-hi/Movie-Reservation-Project/assets/148930703/85faf4de-5d7d-43c7-9fcc-271bfe2321e0)
+![image](https://github.com/gd-hi/JDBC-Movie-Reservation-Project/assets/148930703/a1b43aaf-02ea-4f4b-92b9-5b00bb1eedff)
 
 ### Seat
-![image](https://github.com/gd-hi/Movie-Reservation-Project/assets/148930703/5e72759c-7ef2-43f1-a00b-9ef4dee16353)
+![image](https://github.com/gd-hi/JDBC-Movie-Reservation-Project/assets/148930703/98cb09ee-b927-4001-8fc2-180bd73c7b95)
 
 ### Theather
-![image](https://github.com/gd-hi/Movie-Reservation-Project/assets/148930703/51c11f6b-345c-4c0d-b54b-765daade8e91)
+![image](https://github.com/gd-hi/JDBC-Movie-Reservation-Project/assets/148930703/44097860-0fab-42a8-8f71-9c772ce013c0)
 
 ### Ticket
-![image](https://github.com/gd-hi/Movie-Reservation-Project/assets/148930703/98e2a819-b8ad-4559-8e3d-d6a6555de4d8)
+![image](https://github.com/gd-hi/JDBC-Movie-Reservation-Project/assets/148930703/cb05d440-d1f4-489d-a4c6-b9bf5ffed3ee)
 
-![image](https://github.com/gd-hi/Movie-Reservation-Project/assets/148930703/b9082e69-fd63-4b5b-a299-4bc5e223a0bc)
+![image](https://github.com/gd-hi/JDBC-Movie-Reservation-Project/assets/148930703/0db452d4-6004-4620-abf6-b801b24ef9a2)
 
-![image](https://github.com/gd-hi/Movie-Reservation-Project/assets/148930703/ad67ea04-2366-4a02-a5b3-d53bc6b977d9)
+![image](https://github.com/gd-hi/JDBC-Movie-Reservation-Project/assets/148930703/bc2665d3-a26e-43ef-a7b8-cd9d409742b3)
 
-![image](https://github.com/gd-hi/Movie-Reservation-Project/assets/148930703/1bb6003f-bba3-486f-aae6-8bdfff0a62d1)
+![image](https://github.com/gd-hi/JDBC-Movie-Reservation-Project/assets/148930703/079977b4-fcb6-4868-ba70-1dfc9374e86f)
 
-![image](https://github.com/gd-hi/Movie-Reservation-Project/assets/148930703/af24de9c-1547-4d6b-9e5f-814ef4d5943e)
+![image](https://github.com/gd-hi/JDBC-Movie-Reservation-Project/assets/148930703/b0f88652-2d6b-4c11-9be8-58af2798d62f)
 
-![image](https://github.com/gd-hi/Movie-Reservation-Project/assets/148930703/9436f278-1feb-40bf-8d67-4b1c86fd28d0)
+![image](https://github.com/gd-hi/JDBC-Movie-Reservation-Project/assets/148930703/629f4f95-1c12-4717-92c1-ce8d2ca83a63)
 
-![image](https://github.com/gd-hi/Movie-Reservation-Project/assets/148930703/09797d59-2719-42e4-b940-8c967456f861)
+![image](https://github.com/gd-hi/JDBC-Movie-Reservation-Project/assets/148930703/a278a837-b629-4165-9a29-d472c8c1f777)
 
-![image](https://github.com/gd-hi/Movie-Reservation-Project/assets/148930703/5c47a1dc-124a-4fb1-a2a7-bc76772ba774)
+![image](https://github.com/gd-hi/JDBC-Movie-Reservation-Project/assets/148930703/af3d70ef-b700-4f9a-a051-35676e8abf85)
 
-![image](https://github.com/gd-hi/Movie-Reservation-Project/assets/148930703/1ec30656-7fc1-4c1b-a67b-fa00138bf18d)
+![image](https://github.com/gd-hi/JDBC-Movie-Reservation-Project/assets/148930703/4a12d2ad-2ad9-440c-bc4c-e84b9404a0d8)
 
-![image](https://github.com/gd-hi/Movie-Reservation-Project/assets/148930703/0cba21b9-443b-4d91-af52-e6a63e9a65d4)
+![image](https://github.com/gd-hi/JDBC-Movie-Reservation-Project/assets/148930703/23e182e2-fdee-4fa5-9c3d-84bd49f6fdf7)
+
+![image](https://github.com/gd-hi/JDBC-Movie-Reservation-Project/assets/148930703/f07d24bb-789f-41fb-922e-bbb2cd26ec1c)
+
+![image](https://github.com/gd-hi/JDBC-Movie-Reservation-Project/assets/148930703/c1e482f2-2e1a-4d12-a9c8-17a5e7c868ac)
+
+![image](https://github.com/gd-hi/JDBC-Movie-Reservation-Project/assets/148930703/78fbd578-86f8-4e4f-a479-29fcc6daea7b)
+
+![image](https://github.com/gd-hi/JDBC-Movie-Reservation-Project/assets/148930703/6a32d485-b5eb-42fd-9db0-777455f4d4d2)
+
+![image](https://github.com/gd-hi/JDBC-Movie-Reservation-Project/assets/148930703/e1820026-c490-413a-9ea4-6db7cc48cabb)
+
+![image](https://github.com/gd-hi/JDBC-Movie-Reservation-Project/assets/148930703/86eed311-0c87-4e7e-9ea6-a39c72a9c508)
+
+
+
 
 
